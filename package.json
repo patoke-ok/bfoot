@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.4.5"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.2",
     "zod": "^3.22.4"
+    "typescript": "^5.8.3"
   }
 }
